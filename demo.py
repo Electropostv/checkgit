@@ -5,3 +5,4 @@ def hello():
     print("If you see this message, the test was successful.")
 
 print(hello())    
+print('it is ok ')
